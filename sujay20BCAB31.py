@@ -26,4 +26,4 @@ print(s[1:])
 print(s[ :1])
 
 print(np.array([[0,0,0,0,0,0,0]]*7))
-print(np.array([[1,1,1]]*3))
+print(np.array([[1,1,1]]*3)) 
